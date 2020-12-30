@@ -1,3 +1,5 @@
+Projeto para estudo do VueJS
+
 ## Project setup
 ```
 npm install
